@@ -167,11 +167,6 @@ flowchart TD
 
 ---
 
-### 5. Design Choices Summary
-- **Structured Markdown:** Makes the prompt readable and recruiter-friendly.  
-- **Stepwise flow:** From understanding → reflection → hints → reasoning.  
-- **AI-aware:** Integrates Python-specific pitfalls and reasoning strategies inspired by many user tools.  
-- **General yet specific:** Works across various Python problems while remaining non-revealing.
 
 
 

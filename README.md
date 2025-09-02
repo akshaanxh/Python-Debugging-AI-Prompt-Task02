@@ -1,2 +1,2 @@
 # Python-Debugging-AI-Prompt-Task02
-A smart, student-friendly AI prompt to guide Python debugging—offers hints, encourages reasoning, and helps learners fix code without revealing solutions.
+Python Debugging Mentor Prompt: Guiding learners to discover, reason, and fix code step-by-step with hints and reflection—without ever revealing the solution.

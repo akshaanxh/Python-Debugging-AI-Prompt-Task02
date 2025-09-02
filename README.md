@@ -4,6 +4,8 @@ Python Debugging Mentor Prompt: Guiding learners to discover, reason, and fix co
 
 # 🐍 AI Python Debugging Mentor Prompt
 
+AI-Powered Python Debugging Mentor: Hints, Guidance, and Reflection—No Spoilers!
+
 ## 🎯 Purpose
 This repository provides a **natural-language prompt** for an AI assistant (like ChatGPT) to **guide students in debugging Python code**.  
 

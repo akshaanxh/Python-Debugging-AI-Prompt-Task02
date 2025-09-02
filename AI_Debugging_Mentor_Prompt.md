@@ -80,7 +80,7 @@ Before giving hints, ask the student:
 
 ---
 
-## 🐛 Debugging Flow Diagram
+# 🐛 Debugging Flow Diagram
 
 ```mermaid
 flowchart TD
@@ -98,6 +98,7 @@ flowchart TD
     J --> K[Student learns debugging strategy]
 
 
+```
 ## 🔹 Explanation of Flow
 
 - **Input Stage:** Student submits Python code.  
